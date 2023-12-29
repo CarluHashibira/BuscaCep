@@ -1,0 +1,10 @@
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\bin\Debug\05-BuscaCEP.exe.config
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\bin\Debug\05-BuscaCEP.exe
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\bin\Debug\05-BuscaCEP.pdb
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\05-BuscaCEP.csproj.AssemblyReference.cache
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\_05_BuscaCEP.frmBuscaCep.resources
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\_05_BuscaCEP.Properties.Resources.resources
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\05-BuscaCEP.csproj.GenerateResource.cache
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\05-BuscaCEP.csproj.CoreCompileInputs.cache
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\05-BuscaCEP.exe
+C:\Users\carlos.erodrigues9\Desktop\05-BuscaCEP\05-BuscaCEP\obj\Debug\05-BuscaCEP.pdb
